@@ -4,4 +4,3 @@ def bonjour(nom):
 bonjour("Kubilay")
 
 #modif pour test
-#2eme mofif True:
